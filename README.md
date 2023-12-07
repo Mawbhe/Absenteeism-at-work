@@ -1,2 +1,3 @@
-# Projet data mining BUT SD 23-24 
-Absenteeism-at-work
+# Projet data mining  
+#### Sujet : Analyse et prédiction de l'absenteism au travail.
+ BUT SD 23-24
